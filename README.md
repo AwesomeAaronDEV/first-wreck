@@ -1,4 +1,4 @@
-# ni idea
+# Ti tulo
 # Con un hashtag al inicio de la línea ('#') creamos un titulo igual al h1
 ## Si agregamos otro tenemos uno de menor tamaño
 ### y con tres otro aún mas chico
